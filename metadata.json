@@ -1,0 +1,6 @@
+{
+  "name": "Internship Application Tracker",
+  "description": "A premium futuristic platform for students to track internship application statuses, build resumes, get smart analytics, and chat with an AI Career Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
